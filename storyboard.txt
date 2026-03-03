@@ -1,0 +1,42 @@
+🎬 Objetivo del vídeo
+
+Simular un vídeo de lanzamiento tipo startup (60–90 segundos).
+
+🧩 Storyboard del vídeo
+Escena 1 — El caos informativo
+
+Narración (voz IA):
+
+“Cada día se generan más datos de los que una persona puede procesar…”
+
+🎥 Visual:
+
+Noticias, vídeos, feeds superpuestos
+
+Escena 2 — El problema
+
+“¿Y si la información trabajara para ti?”
+
+🎥 Visual:
+
+Usuario abrumado → pantalla limpia
+
+Escena 3 — Presentación de NoticIA
+
+“NoticIA transforma información dispersa en conocimiento accionable.”
+
+🎥 Visual:
+
+Logo + interfaz conceptual
+
+Escena 4 — Módulos
+
+“Extrae. Analiza. Informa.”
+
+🎥 Visual:
+
+Extractor → Alertador → Informador
+
+Escena 5 — Cierre
+
+“NoticIA. Consume menos información. Entiende más.”

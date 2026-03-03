@@ -1,0 +1,25 @@
+Escena 1 — Caos informativo
+Motion: High
+Speed: Fast
+Motion prompt: News headlines pulse and swirl chaotically, glitch effects intensify, data streams flow in all directions, overwhelming movement
+
+Escena 2 — Split (antes/después)
+Motion: Low (sutil)
+Speed: Relaxed
+Motion prompt: The person on the left slowly becomes more stressed, the person on the right gently breathes calmly, papers float subtly
+
+Escena 3 — Logo + interfaz
+Motion: Low
+Speed: Relaxed
+Motion prompt: Data particles gently flowing around the logo, subtle pulsing of the holographic interface, soft ambient light movement
+
+Escena 4 — Los 3 módulos
+Motion: Low
+Speed: Relaxed
+Motion prompt: Data flowing from left panel to middle to right, subtle glowing pulses in each module, connected by flowing light lines
+
+Escena 5 — Cierre
+Motion: Low
+Speed: Relaxed
+Motion prompt: Gentle ambient light changing slowly, person breathing calmly, subtle particles fading away, zen-like stillness
+
